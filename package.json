@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-javascript-action-by-jairo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jgomez11/hello-world-javascript-action-by-jairo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jgomez11/hello-world-javascript-action-by-jairo.git/issues"
+  },
+  "homepage": "https://github.com/Jgomez11/hello-world-javascript-action-by-jairo.git#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.1"
+  }
+}
